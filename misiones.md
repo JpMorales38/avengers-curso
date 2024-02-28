@@ -1,4 +1,4 @@
 # Misiones
 
-investigar los archivos del Dr. doom
-
+* Investigar los archivos del Dr. Doom.
+* Capturar a Red Skull.
